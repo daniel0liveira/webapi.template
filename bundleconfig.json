@@ -1,0 +1,28 @@
+[
+  {
+    "outputFileName": "central/app/central-app.min.js",
+    "inputFiles": [
+      "central/app/central-app.js"
+    ]
+  },
+  {
+    "outputFileName": "../../../../Users/daniel.oliveira/Desktop/bundle.js",
+    "inputFiles": [
+      "central/app/central-controller.js",
+      "central/app/central-extAuth.js"
+    ]
+  },
+  {
+    "outputFileName": "central/app/bundle.js",
+    "inputFiles": [
+      "central/app/central-controller.js",
+      "central/app/central-extAuth.js"
+    ]
+  },
+  {
+    "outputFileName": "central/app/bundle.min.min.js",
+    "inputFiles": [
+      "central/app/bundle.min.js"
+    ]
+  }
+]

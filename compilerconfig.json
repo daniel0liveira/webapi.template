@@ -1,0 +1,6 @@
+﻿[
+  {
+    "outputFile": "central/app/bundle.min.es5.js",
+    "inputFile": "central/app/bundle.min.js"
+  }
+]
