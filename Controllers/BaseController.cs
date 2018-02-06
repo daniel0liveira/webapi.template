@@ -23,6 +23,8 @@ namespace  WebApi
             ResponseMessage = new HttpResponseMessage();
 
             var identity = (ClaimsPrincipal)Thread.CurrentPrincipal;
+
+            //daniel
             
         }
 
